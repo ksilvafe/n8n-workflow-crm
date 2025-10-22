@@ -1,0 +1,9 @@
+version: "2"
+authtoken: 2yRO2tP0hFSbd0vWniC6P7wDMS0_7LxwzRSYbDgDkFYF2K6kY
+tunnels:
+  n8n:
+    proto: http
+    addr: n8n:5678
+  evolution-api:
+    proto: http
+    addr: evolution-api:8080
